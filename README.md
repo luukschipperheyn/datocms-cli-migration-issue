@@ -1,3 +1,5 @@
+https://github.com/datocms/cli/issues/19
+
 steps to reproduce
 
 - `npm i`
